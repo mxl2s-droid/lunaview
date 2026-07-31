@@ -1,5 +1,2 @@
-# LunaView authorized digital sellers.
-# Before publishing: replace pub-XXXXXXXXXXXXXXXX with the exact AdMob publisher ID
-# from AdMob (format: pub-################). Do not publish a fabricated ID.
-# Then commit and verify that https://lunaview.net/app-ads.txt returns this file as text/plain.
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-1585077539717491, DIRECT, f08c47fec0942fa0
+vungle.com, 68071d386a5f3e00113b7c2d, DIRECT, c107d686becd2d77
